@@ -35,12 +35,12 @@ Main Weapons
 <p> <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=json&logoColor=white" alt="REST API" /> <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </p></div>
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirabelf&show_icons=true&theme=radical&hide_border=false&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirabelf&theme=radical&hide_border=false&background=0d0d0d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirabelf&layout=compact&theme=radical&hide_border=false&langs_count=8" width="45%" />
+  <!-- Stats with YOUR username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mira31belf&show_icons=true&theme=radical" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mira31belf&layout=compact&theme=radical" width="300" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mira31belf&theme=radical" width="400" />
 </p>
  
 ## 🏆 Legendary Projects
