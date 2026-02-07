@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/4Z7cF7y.gif" width="180" alt="Anime coding" />
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime coding" /></div>
   
   <h1>✨ Amira Belferroum ✨</h1>
   <h3>🌸 Backend Developer | Python Magician | API Architect 🌸</h3>
@@ -22,7 +22,7 @@
 ## 🎮 About Me
 
 <div align="center">
-  
+
 ```python
 # 🌸 Anime Developer Class 🌸
 class AnimeDeveloper:
@@ -45,5 +45,3 @@ class AnimeDeveloper:
         return "Code with passion, deploy with confidence! ✨"
 
 dev = AnimeDeveloper()
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime coding" /></div>
