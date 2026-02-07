@@ -1,46 +1,48 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirabelf&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mirabelf?label=Follow&style=social&color=ff6b6b" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=mirabelf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mirabelf?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
 <div align="center">
-  <!-- Anime coding GIF -->
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" alt="Anime Coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anime+Ace&size=35&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=✨+Konnichiwa,+I'm+Amira;🎌+Backend+Anime+Protagonist;💖+Python+Magician" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=✨+Hello,+I'm+Amira;💻+Backend+Developer;🚀+Python+Specialist" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🌸 後端開発者 | Django • Node.js • Flutter | API アーキテクト 🌸</h3>
+<h3 align="center">Backend Engineer | Django • Node.js • Flutter | API & Microservices</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anime+Ace&duration=2800&color=9D4BFF&center=true&vCenter=true&width=700&lines=⚡+Turning+Anime+Dreams+into+Code+Reality;🌸+Building+Digital+Worlds+with+Logic;🎯+Clean+Code+%26+Elegant+Architecture;🚀+Leveling+Up+Every+Day+Like+An+MC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=10B981&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Clean+Code+%26+Best+Practices;Passionate+About+Problem+Solving;Always+Learning+and+Growing" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👋 About Me
 
-<div align="center">
-  
-  ##
-  # ✨ Anime Developer Class ✨
-  class AnimeDeveloper:
-      def __init__(self):
-          self.name = "Amira Belferroum"
-          self.title = "Backend Shoujo"
-          self.special_move = "✨ Domain Expansion: Backend Architecture ✨"
-          self.power_level = "Growing Daily 📈"
-          self.weapons = ["Python Wand", "Django Shield", "Node.js Bow"]
-          self.allies = ["PostgreSQL", "Flutter", "Firebase"]
-          self.goal = "Become a Legendary Backend Engineer 🌸"
-      
-   def introduction(self):
-          return "Konnichiwa! Let's create amazing digital worlds together! 🎌"
+I'm **Amira Belferroum**, a passionate Backend Developer specialized in creating robust and scalable systems. I love turning complex problems into elegant solutions and believe in writing clean, maintainable code.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Amira Belferroum"
+        self.role = "Backend Developer"
+        self.focus = ["API Development", "System Architecture", "Database Design"]
+        self.passion = "Building efficient backend systems"
+    
+    def skills(self):
+        return {
+            "Backend": ["Django", "Django REST", "Node.js"],
+            "Mobile": ["Flutter"],
+            "Databases": ["PostgreSQL", "MySQL", "Firebase"],
+            "Tools": ["Git", "Docker", "Postman"]
+        }
   
   me = AnimeDeveloper()
+
    ## ⚔️ Main Weapons
+
 <p align="center"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" /> <img src="https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> </p>
     ## 🛡️ Defense & Support
 <p align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> </p>
