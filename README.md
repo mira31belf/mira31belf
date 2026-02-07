@@ -74,7 +74,18 @@ Flutter + Node.js Full Stack Application
 
 ## 📫 Contact Me
 
-<div align="center"> <!-- Contact buttons with clickable icons --> <a href="mailto:mira31oran198@gmail.com" style="text-decoration: none;"> <img src="https://img.shields.io/badge/📧%20Email-Click%20to%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/belferroum-amira-88484a206" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/mirabelf" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/🐙%20GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
+<p align="center">
+  <a href="mailto:mira31oran198@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📧%20Email-Click%20to%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/belferroum-amira-88484a206" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mirabelf" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 
 <div align="center">
 
