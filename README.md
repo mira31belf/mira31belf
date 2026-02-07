@@ -1,48 +1,49 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirabelf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mirabelf?label=GitHub%20Followers&style=flat&color=green" alt="GitHub followers" />
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation" />
+  <img src="https://i.imgur.com/4Z7cF7y.gif" width="180" alt="Anime coding" />
+  
+  <h1>✨ Amira Belferroum ✨</h1>
+  <h3>🌸 Backend Developer | Python Magician | API Architect 🌸</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mirabelf&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Django-Developer-green?style=flat&logo=django" alt="Django" />
+    <img src="https://img.shields.io/badge/Node.js-Expert-yellow?style=flat&logo=node.js" alt="Node.js" />
+  </p>
+  
+  <!-- Typing animation -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Konnichiwa+World!+🎌;Welcome+to+my+anime+coding+realm;Backend+Developer+with+magical+powers;Turning+coffee+into+clean+code+☕" alt="Typing SVG" />
+  </p>
+  
+  <hr>
+  
 </div>
 
-<h1 align="center">
-  ✨ Hello, I'm Amira<br/>
-  💻 Backend Developer<br/>
-  🚀 Python Specialist
-</h1>
+## 🎮 About Me
 
-<h3 align="center">Backend Engineer | Django • Node.js • Flutter | API & Microservices</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=10B981&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Clean+Code+%26+Best+Practices;Passionate+About+Problem+Solving;Always+Learning+and+Growing" alt="Typing SVG" />
-</p>
-
----
-
-## 👋 About Me
-
-I'm **Amira Belferroum**, a passionate Backend Developer specialized in creating robust and scalable systems. I love turning complex problems into elegant solutions and believe in writing clean, maintainable code.
-
+<div align="center">
+  
 ```python
-class Developer:
+# 🌸 Anime Developer Class 🌸
+class AnimeDeveloper:
     def __init__(self):
         self.name = "Amira Belferroum"
-        self.role = "Backend Developer"
-        self.focus = ["API Development", "System Architecture", "Database Design"]
-        self.passion = "Building efficient backend systems"
+        self.title = "Backend Shoujo Developer"
+        self.speciality = "Python Magic & API Sorcery"
+        self.location = "Algeria 🌍"
+        self.status = "Leveling Up Daily ⚡"
     
     def skills(self):
         return {
-            "Backend": ["Django", "Django REST", "Node.js"],
-            "Mobile": ["Flutter"],
-            "Databases": ["PostgreSQL", "MySQL", "Firebase"],
-            "Tools": ["Git", "Docker", "Postman"]
+            "主な武器": ["Python Wand", "Django Shield", "Node.js Bow"],
+            "防御魔法": ["PostgreSQL Barrier", "Firebase Firewall"],
+            "特殊技": ["REST API", "JWT Authentication", "Microservices"],
+            "仲間": ["Git", "Docker", "Flutter", "Postman"]
         }
+    
+    def quote(self):
+        return "Code with passion, deploy with confidence! ✨"
 
-me = Developer()
-🛠️ Tech Stack
-⚔️ Main Technologies
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> </p>
-🛡️ Mobile & Databases
+dev = AnimeDeveloper()
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime coding" /></div>
