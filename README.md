@@ -23,25 +23,13 @@
 
 <div align="center">
 
-```python
-# 🌸 Anime Developer Class 🌸
-class AnimeDeveloper:
-    def __init__(self):
-        self.name = "Amira Belferroum"
-        self.title = "Backend Shoujo Developer"
-        self.speciality = "Python Magic & API Sorcery"
-        self.location = "Algeria 🌍"
-        self.status = "Leveling Up Daily ⚡"
-    
-    def skills(self):
-        return {
-            "主な武器": ["Python Wand", "Django Shield", "Node.js Bow"],
-            "防御魔法": ["PostgreSQL Barrier", "Firebase Firewall"],
-            "特殊技": ["REST API", "JWT Authentication", "Microservices"],
-            "仲間": ["Git", "Docker", "Flutter", "Postman"]
-        }
-    
-    def quote(self):
-        return "Code with passion, deploy with confidence! ✨"
+⚔️ Tech Arsenal
+<div align="center">
+Main Weapons
+<p> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" /> <img src="https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> </p>
+Defense & Support
+<p> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> </p>
+Special Skills
+<p> <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=json&logoColor=white" alt="REST API" /> <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </p></div>
 
-dev = AnimeDeveloper()
+
