@@ -34,8 +34,14 @@ Main Weapons
 ## Special Skills
 <p> <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=json&logoColor=white" alt="REST API" /> <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </p></div>
 ## 📊 GitHub Stats
-<div align="center"> <!-- GitHub Stats Cards --> <img src="https://github-readme-stats.vercel.app/api?username=mirabelf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirabelf&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirabelf&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%" /></div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirabelf&show_icons=true&theme=radical&hide_border=false&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirabelf&theme=radical&hide_border=false&background=0d0d0d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirabelf&layout=compact&theme=radical&hide_border=false&langs_count=8" width="45%" />
+</p>
  
 ## 🏆 Legendary Projects
 ## ✨ Task Distribution System
@@ -89,7 +95,4 @@ Flutter + Node.js Full Stack Application
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/N7h1H71T0W4AAAAC/gojo-satoru.gif" width="300" alt="Gojo Satoru" />
-<img src="https://media1.tenor.com/m/NTv5Hx1H92UAAAAC/sukuna-domain-expansion.gif" width="300" alt="Contact me" /></div>
-
-<div align="center"> <img src="https://media1.tenor.com/m/gO3Rj7l3qHYAAAAC/jujutsu-kaisen-gojo.gif" width="400" alt="Anime scene" /> <br> <h2>✨「限界展開: バックエンド・アーキテクチャ」✨</h2> <h3>Domain Expansion: Backend Architecture</h3> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" /> <p><i>Thanks for visiting! May your code always compile on the first try! ✨</i></p></div>
+ <p align="center"> <img src="https://media1.tenor.com/m/N7h1H71T0W4AAAAC/gojo-satoru.gif" width="250" alt="Gojo Satoru" /> <img src="https://media1.tenor.com/m/NTv5Hx1H92UAAAAC/sukuna-domain-expansion.gif" width="250" alt="Sukuna" /> </p> <p align="center"> <img src="https://media1.tenor.com/m/gO3Rj7l3qHYAAAAC/jujutsu-kaisen-gojo.gif" width="350" alt="Anime scene" /> </p> <h2 align="center">✨「限界展開: バックエンド・アーキテクチャ」✨</h2> <h3 align="center">Domain Expansion: Backend Architecture</h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" /> </p> <p align="center"><i>Thanks for visiting! May your code always compile on the first try! ✨</i></p>
