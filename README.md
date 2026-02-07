@@ -95,4 +95,17 @@ Flutter + Node.js Full Stack Application
 
 <div align="center">
 
- <p align="center"> <img src="https://media1.tenor.com/m/N7h1H71T0W4AAAAC/gojo-satoru.gif" width="250" alt="Gojo Satoru" /> <img src="https://media1.tenor.com/m/NTv5Hx1H92UAAAAC/sukuna-domain-expansion.gif" width="250" alt="Sukuna" /> </p> <p align="center"> <img src="https://media1.tenor.com/m/gO3Rj7l3qHYAAAAC/jujutsu-kaisen-gojo.gif" width="350" alt="Anime scene" /> </p> <h2 align="center">✨「限界展開: バックエンド・アーキテクチャ」✨</h2> <h3 align="center">Domain Expansion: Backend Architecture</h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" /> </p> <p align="center"><i>Thanks for visiting! May your code always compile on the first try! ✨</i></p>
+ <p align="center"> <img src="https://media1.tenor.com/m/N7h1H71T0W4AAAAC/gojo-satoru.gif" width="250" alt="Gojo Satoru" />
+  <img src="https://media1.tenor.com/m/NTv5Hx1H92UAAAAC/sukuna-domain-expansion.gif" width="250" alt="Sukuna" /> </p> 
+ 
+ <p align="center"> <img src="https://media1.tenor.com/m/gO3Rj7l3qHYAAAAC/jujutsu-kaisen-gojo.gif" width="350" alt="Anime scene" /> </p> 
+ <h2 align="center">✨「限界展開: バックエンド・アーキテクチャ」✨</h2> 
+ <h3 align="center">Domain Expansion: Backend Architecture</h3> <p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" /> </p>
+  <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+  
+  <p>Made with ❤️ by Amira</p>
+  </div>
+  <p align="center"><i>Thanks for visiting! May your code always compile on the first try! ✨</i></p>
